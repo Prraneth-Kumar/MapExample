@@ -101,7 +101,7 @@ class ViewController: UIViewController,  MKMapViewDelegate {
 }
 
 
-
+/*
 import UIKit
 import CoreLocation
 import MapKit
@@ -194,7 +194,7 @@ class ViewController: UIViewController, MKMapViewDelegate, CLLocationManagerDele
     
 }
 
-
+*/
 /*
 import UIKit
 import MapKit
